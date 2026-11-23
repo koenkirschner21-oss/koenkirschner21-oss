@@ -10,6 +10,7 @@ I’m a Marketing Management student at the University of Guelph, a web develope
 | [Gryph ClubConnect](https://github.com/koenkirschner21-oss/Gryph-ClubConnect) | An early-access site for a student club discovery and operations concept. The [companion UI demo](https://github.com/koenkirschner21-oss/gryph-club-connect-ui-portfolio) shows the student and club workflows with fictional data. |
 | [Student Window Cleaning](https://github.com/koenkirschner21-oss/student-window-cleaning) | A site for my own service business, built around the questions customers ask before requesting a quote. |
 | [GEMA Website](https://github.com/koenkirschner21-oss/gema-website) | A student association website that helps students find events, meet the team, and get involved. |
+| [Business Technologies Guelph](https://github.com/HimanshuS10/Business-Tech-Groups) | Contributed a six-page Next.js site rebuild for a student technology organization. |
 
 ### What I’m interested in
 
